@@ -15,10 +15,14 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AdrielBernhardT&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AdrielBernhardT&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrielBernhardT&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrielBernhardT&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AdrielBernhardT&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AdrielBernhardT&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
 
 ### ✍️ Random Dev Quote
 <div align="center">
@@ -26,7 +30,9 @@
 </div>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AdrielBernhardT&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=AdrielBernhardT&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AdrielBernhardT&icon=0&color=0)](https://visitcount.itsvg.in)
