@@ -1,4 +1,6 @@
-# 👋 Hi! I'm Adriel:
+<center>  
+# Hi! I'm Adriel
+</center>
 <h3 align="middle">🏅 PPTI BCA Scholarship Awardee Batch 21</h3>
 <h2 align="middle">💫 About Me</h2>
 
