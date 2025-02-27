@@ -1,8 +1,8 @@
 <h1 align="center">👋Hi! I'm Adriel</h1>
   
-<h4 align="center">🏅 PPTI BCA Scholarship Awardee Batch 21</h4>
-<h2 align="center">💫 About Me</h2>
+<h5 align="center">🏅 PPTI BCA Scholarship Awardee Batch 21</h4>
 
+## 💫 About Me
 💻 I have experience in C, Java, HTML, and Python
 
 🌟 I previously served as Chairman of PPTI 21 and also part of the Publication and Documentation Division
@@ -12,14 +12,15 @@
 🚀 Let’s connect and innovate together!
 
 
-<h1 align="center">💻 Tech Stack</h1> 
+<h1 align="center">Tech Stack</h1> 
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-<h2 align="center">🌐 Socials</h2>
+
+### 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/driel_chen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adriel-bernhard-tanuhariono-b81459279) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adrielbth01@gmail.com) 
 
-<h1 align="center">📊 GitHub Stats</h1> 
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdrielBernhardT&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
@@ -28,17 +29,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdrielBernhardT&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AdrielBernhardT&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-<h3 align="center">✍️ Random Dev Quote</h3>
+### ✍️ Random Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="GitHub Readme Quote">
 </div>
 
-<h3 align="center">🔝 Top Contributed Repo</h3>
+### 🔝 Top Contributed Repo
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=AdrielBernhardT&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
 </div>
