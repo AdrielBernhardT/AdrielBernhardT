@@ -1,5 +1,6 @@
-# 💫 About Me:
-<h2 align="left">Hi! My name is Adriel and I'm a Computer Science student, from Indonesia.</h2>
+# 👋 Hi! I'm Adriel:
+<h3 align="middle">🏅 PPTI BCA Scholarship Awardee Batch 21</h3>
+<h2 align="middle">💫 About Me</h2>
 
 👋 I'm a Computer Science student under the PPTI BCA Scholarship at Bina Nusantara University. I have experience in C, Java, HTML, and Python.
 
