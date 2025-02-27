@@ -1,4 +1,4 @@
-<h1 align="center">👋Hi! I'm Adriel Bernhard T</h1>
+<h1 align="center">👋Hi! I'm Adriel Bernhard T.</h1>
   
 <h5 align="center">🏅 PPTI BCA Scholarship Awardee Batch 21</h4>
 
