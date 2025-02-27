@@ -1,11 +1,11 @@
-<h1 align="middle">Hi👋! I'm Adriel</h1>
+<h1 align="middle">👋Hi! I'm Adriel</h1>
   
-<h3 align="middle">🏅 PPTI BCA Scholarship Awardee Batch 21</h3>
+<h4 align="middle">🏅 PPTI BCA Scholarship Awardee Batch 21</h4>
 <h2 align="middle">💫 About Me</h2>
 
-👋 I'm a Computer Science student under the PPTI BCA Scholarship at Bina Nusantara University. I have experience in C, Java, HTML, and Python.
+💻 I have experience in C, Java, HTML, and Python
 
-🌟 I previously served as Chairman of PPTI 21 (Caturwulan I), leading a team and coordinating activities. Now, I’m part of the Publication and Documentation Division (Caturwulan II), managing content creation and event documentation.
+🌟 I previously served as Chairman of PPTI 21 and also part of the Publication and Documentation Division
 
 💡 Passionate about problem-solving and lifelong learning, I aim to grow as a Full-Stack Developer and make an impact in the tech industry.
 
