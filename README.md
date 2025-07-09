@@ -5,9 +5,9 @@
 ## 💫 About Me
 💻 I have experience in C, Java, HTML, and Python
 
-🌟 I previously served as Chairman of PPTI 21 and also part of the Publication and Documentation Division
+🌟 I previously passed the 2022 City-level National Informatics Science Olympiad
 
-💡 Passionate about problem-solving and lifelong learning, I aim to grow as a Full-Stack Developer and make an impact in the tech industry.
+💡 Passionate about problem-solving and lifelong learning, I aim to grow as a Cyber-Security or Full-Stack Developer and make an impact in the tech industry.
 
 🚀 Let’s connect and innovate together!
 
