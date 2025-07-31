@@ -3,7 +3,7 @@
 <h5 align="center">🏅 PPTI BCA Scholarship Awardee Batch 21</h4>
 
 ## 💫 About Me
-💻 I have experience in C, Java, HTML, and Python
+💻 I have experience in C/C++, Java, HTML, CSS, JS, SQL, and Python
 
 🌟 I previously passed the 2022 City-level National Informatics Science Olympiad
 
