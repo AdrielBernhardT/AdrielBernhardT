@@ -29,19 +29,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdrielBernhardT&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdrielBernhardT&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
 ### ✍️ Random Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="GitHub Readme Quote">
-</div>
-
-### 🔝 Top Contributed Repo
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=AdrielBernhardT&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
 </div>
 
 ---
